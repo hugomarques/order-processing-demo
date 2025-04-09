@@ -1,0 +1,5 @@
+# src/main/resources/application.yml
+logging:
+  level:
+    root: INFO
+    dev.hugomarques: DEBUG
